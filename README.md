@@ -11,4 +11,7 @@ The notebook version is trained on 100 episodes.
 
 The result after 100:
 
-![Pong recored video](download.mp4)
+
+
+https://user-images.githubusercontent.com/6302818/212568839-c261cfbf-52ae-4713-8256-b5d035a53cfe.mp4
+
