@@ -9,7 +9,7 @@ Jürgen Toth
 Pong implementation with a Dueling DQN network in PyTorch
 
 **Execution**
-Open the CourseRL_PongSolution.ipynb file
+Open the CourseRL_PongSolution.ipynb file: [Notebook](./CourseRL_PongSolution.ipynb)
 
 Best execution in Google Colab. Use badge icon in the notebook !
 
